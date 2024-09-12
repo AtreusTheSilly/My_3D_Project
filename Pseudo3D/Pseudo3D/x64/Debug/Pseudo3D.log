@@ -1,0 +1,12 @@
+﻿  Initialization.cpp
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\Initialization.cpp(12,48): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\Initialization.cpp(12,33): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\Initialization.cpp(12,18): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\Initialization.cpp(50,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\Initialization.cpp(52,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\Initialization.cpp(54,92): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\Initialization.cpp(54,77): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\Initialization.cpp(54,62): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\Initialization.cpp(106,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\Initialization.cpp(108,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Pseudo3D.vcxproj -> D:\Other\VS_Projects\Pseudo3D\Pseudo3D\x64\Debug\Pseudo3D.exe

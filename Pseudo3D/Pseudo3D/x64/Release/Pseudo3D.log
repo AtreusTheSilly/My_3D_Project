@@ -1,0 +1,78 @@
+﻿  Buttons.cpp
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\Buttons.cpp(17,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\Buttons.cpp(18,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\Buttons.cpp(19,37): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\Buttons.cpp(20,37): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\Buttons.cpp(21,38): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\Buttons.cpp(22,38): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\Buttons.cpp(40,30): warning C4305: '=': truncation from 'double' to 'float'
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\Buttons.cpp(72,35): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\Buttons.cpp(73,35): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\Buttons.cpp(74,60): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\Buttons.cpp(75,60): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  DrawingPlayer.cpp
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\DrawingPlayer.cpp(12,23): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\DrawingPlayer.cpp(12,13): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\DrawingPlayer.cpp(20,23): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\DrawingPlayer.cpp(20,13): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\DrawingPlayer.cpp(21,54): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\DrawingPlayer.cpp(21,22): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+  Initialization.cpp
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\Initialization.cpp(12,48): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\Initialization.cpp(12,33): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\Initialization.cpp(12,18): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\Initialization.cpp(50,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\Initialization.cpp(52,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\Initialization.cpp(54,92): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\Initialization.cpp(54,77): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\Initialization.cpp(54,62): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\Initialization.cpp(106,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\Initialization.cpp(108,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Level.cpp
+  Pseudo3D.cpp
+  Rays.cpp
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\Rays.cpp(11,17): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\Rays.cpp(25,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\Rays.cpp(28,29): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\Rays.cpp(30,29): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\Rays.cpp(37,34): warning C4305: 'initializing': truncation from 'int' to 'float'
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\Rays.cpp(47,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\Rays.cpp(55,44): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\Rays.cpp(92,32): warning C4305: 'initializing': truncation from 'int' to 'float'
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\Rays.cpp(102,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\Rays.cpp(110,44): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\Rays.cpp(157,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\Rays.cpp(160,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\Rays.cpp(178,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\Rays.cpp(181,34): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\Rays.cpp(191,30): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\Rays.cpp(191,20): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\Rays.cpp(192,26): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\Rays.cpp(192,20): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\Rays.cpp(196,27): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\Rays.cpp(198,33): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\Rays.cpp(200,33): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\Rays.cpp(214,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\Rays.cpp(217,29): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\Rays.cpp(219,29): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\Rays.cpp(226,34): warning C4305: 'initializing': truncation from 'int' to 'float'
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\Rays.cpp(236,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\Rays.cpp(244,44): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\Rays.cpp(281,32): warning C4305: 'initializing': truncation from 'int' to 'float'
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\Rays.cpp(291,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\Rays.cpp(299,44): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\Rays.cpp(346,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\Rays.cpp(349,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\Rays.cpp(367,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\Rays.cpp(370,34): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\Rays.cpp(381,36): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\Rays.cpp(383,36): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\Rays.cpp(399,41): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\Rays.cpp(404,27): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\Rays.cpp(406,33): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Other\VS_Projects\Pseudo3D\Pseudo3D\Pseudo3D\Rays.cpp(408,33): warning C4305: '-=': truncation from 'double' to 'float'
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 13 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Pseudo3D.vcxproj -> D:\Other\VS_Projects\Pseudo3D\Pseudo3D\x64\Release\Pseudo3D.exe
