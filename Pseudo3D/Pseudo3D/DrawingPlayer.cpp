@@ -20,5 +20,4 @@ void drawingPlayer(float* playerX, float* playerY, float* playerDeltaX, float* p
 	glVertex2i(*playerX, *playerY);
 	glVertex2i(*playerX + *playerDeltaX * 150, *playerY + *playerDeltaY * 150);
 	glEnd();
-	//drawingRays();
 }
